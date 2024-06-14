@@ -41,6 +41,6 @@ export function constructMetadata({
       creator: "@waeltarabishi",
     },
     icons,
-    //metadataBase: new URL(" "),
+    metadataBase: new URL("https://sastacase.vercel.app"),
   };
 }
